@@ -1,0 +1,12 @@
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\bin\Debug\UOECLauncher.exe
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\bin\Debug\UOECLauncher.pdb
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\bin\Debug\connection.dll
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\bin\Debug\EasyHook.dll
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.csprojAssemblyReference.cache
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.Properties.Resources.resources
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOLauncher.Form1.resources
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.csproj.GenerateResource.cache
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.csproj.CoreCompileInputs.cache
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.csproj.CopyComplete
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.exe
+C:\Users\mnune\Desktop\UOELauncher\UOECLauncher\obj\Debug\UOECLauncher.pdb
